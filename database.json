@@ -1,0 +1,34 @@
+[
+{
+"seatNo":"S12345",
+"name":"Rahul Patil",
+"branch":"AI & DS",
+"DS":"85",
+"AI":"82",
+"OS":"78",
+"DELD":"80",
+"Result":"PASS"
+},
+
+{
+"seatNo":"S12346",
+"name":"Aditi Sharma",
+"branch":"AI & DS",
+"DS":"88",
+"AI":"90",
+"OS":"84",
+"DELD":"86",
+"Result":"PASS"
+},
+
+{
+"seatNo":"S12347",
+"name":"Sahil Shaikh",
+"branch":"AI & DS",
+"DS":"75",
+"AI":"80",
+"OS":"72",
+"DELD":"78",
+"Result":"PASS"
+}
+]
